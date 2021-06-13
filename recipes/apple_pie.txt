@@ -1,6 +1,8 @@
 Apple Pie
 pre-made pastry
+<<<<<<< HEAD
 1/2 cip butter
 3 tablespoons flour
 1 cup sugar
-8 Granny Smith apples
+9 Granny Smith apples
+
